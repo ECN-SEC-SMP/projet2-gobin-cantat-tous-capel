@@ -3,9 +3,6 @@
 
 using namespace std;
 
-//plus = plus
-//m = moins
-//f = fleche
 typedef enum{
   plus,
   plusplus,
